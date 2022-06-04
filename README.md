@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**meacu1pa/meacu1pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dom, nice to meet you!
 
-Here are some ideas to get you started:
+I am a full-stack software engineer focused on continuously shipping robust web applications. During my career I crossed multiple domains and tackled versatile technical challenges. Being a servant team player, I value and practice candid feedback. My number one driver is curiosity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After graduating in the field of geographic information systems (GIS), I decided it's time to shift my focus on the software engineering side of things. I've got a bunch of experience working with PHP, especially the Symfony framework. In my free time I like to explore new tools, technologies and languages - currently the [Deno](https://deno.land/) ecosystem is my jam.
+
+Besides writing code I also enjoy scratching vinyl records (turntablism), practicing martial arts and reading a good book.
+
+If you want to get in touch, feel free to contact me on [Twitter](https://twitter.com/meaculpadev) or [LinkedIn](https://www.linkedin.com/in/dominic-schuld/).
+
+Cheers :)
