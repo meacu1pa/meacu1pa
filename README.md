@@ -13,7 +13,7 @@ I have a weakness for tinkering 🔨.
 - [meaculpa.dev](https://meaculpa.dev/)
 - [Okane](https://okane.deno.dev/)
 
-## Contact
+## Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/dominic-schuld/)
 - [Twitter/X](https://twitter.com/meaculpadev)
