@@ -9,7 +9,3 @@ My name is Dom and I have a weakness for tinkering 🔨
 - 80% Backend, 20% Frontend
 - PHP 🐘, Go 💨, JS/TS 💣
 - APIs, CLIs, UIs
-
-## Get in touch
-
-- [LinkedIn](https://www.linkedin.com/in/dominic-schuld/)
